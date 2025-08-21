@@ -31,3 +31,6 @@ print("message 2")  # This will print on the same line as message 1
 print()  # create a new line between 2 print statements using \n
 # This will print message 1 and message 2 on separate lines
 print("message 1\nmessage 2")
+
+
+print("message1\n\n\nmessage2")  # This will print message1 and message2 with 3 new lines in between
