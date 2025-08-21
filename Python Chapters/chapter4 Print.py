@@ -34,3 +34,5 @@ print("message 1\nmessage 2")
 
 
 print("message1\n\n\nmessage2")  # This will print message1 and message2 with 3 new lines in between
+
+print("message1\tmessage2")  # This will print message1 and message2 with a tab space in between
