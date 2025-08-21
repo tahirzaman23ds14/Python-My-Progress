@@ -50,4 +50,5 @@ print(
     3. AI 
     """
 )
+# Using escape characters to format the output
 print( "YOU ARE LEARNING PYTHON\n\t-python Basics\n\t-Data Engineering\n\t-AI"  )
