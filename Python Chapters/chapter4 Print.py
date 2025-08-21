@@ -33,6 +33,21 @@ print()  # create a new line between 2 print statements using \n
 print("message 1\nmessage 2")
 
 
-print("message1\n\n\nmessage2")  # This will print message1 and message2 with 3 new lines in between
+# This will print message1 and message2 with 3 new lines in between
+print("message1\n\n\nmessage2")
 
-print("message1\tmessage2")  # This will print message1 and message2 with a tab space in between
+# This will print message1 and message2 with a tab space in between
+print("message1\tmessage2")
+
+# Using triple quotes to print multi-line strings
+# this is challenge when i learn python
+# Using triple quotes to print multi-line strings
+print(
+    """
+    Your Learning Path
+    1. Python Basics   
+    2. Data Engineering
+    3. AI 
+    """
+)
+print( "YOU ARE LEARNING PYTHON\n\t-python Basics\n\t-Data Engineering\n\t-AI"  )
