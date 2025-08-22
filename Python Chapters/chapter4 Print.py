@@ -52,3 +52,6 @@ print(
 )
 # Using escape characters to format the output
 print( "YOU ARE LEARNING PYTHON\n\t-python Basics\n\t-Data Engineering\n\t-AI"  )
+
+
+# Practice at least 10 print statements with different combinations of quotes, escape characters, and formatting options.
