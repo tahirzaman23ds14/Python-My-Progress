@@ -21,19 +21,18 @@ name = "Tahir"  # variable 'name' stores the text "Tahir"
 
 Now, instead of writing the actual value again and again, you just use the variable name.
 
-If the value changes, you only need to update the variable once.
-
+If the value changes, you only need to update the variable once."""
 #############################################################################################################
 # Practice with Variables
-Without variables (lots of repetition):
+#Without variables (lots of repetition):
 print("My name is Tahir")
 print("Tahir is learning Python")
 print("Tahir wants to become a Python Expert")
 
 
-👉 Problem: If you want to change the name, you must edit it everywhere.
+#👉 Problem: If you want to change the name, you must edit it everywhere.
 
-With variables (clean and easy):
+#With variables (clean and easy):
 # Assigning the name to a variable
 name = "Ali"  
 
@@ -42,9 +41,9 @@ print("My name is", name)
 print(name, "is learning Python")
 print(name, "wants to become a Python Expert")
 
-Updating Variable Values
+#Updating Variable Values
 
-Variables can be updated anytime by assigning a new value:
+#ariables can be updated anytime by assigning a new value:
 
 name = "Ali"
 print("My name is", name)
@@ -52,8 +51,8 @@ print("My name is", name)
 name = "Sara"  # changed value
 print("Now my name is", name)
 
-Key Points About Variables in Python
-
+#Key Points About Variables in Python
+"""
 Naming Rules:
 
 Start with a letter or _ (underscore).
@@ -70,13 +69,17 @@ Case Sensitive:
 Name and name are different variables.
 
 Data Types (values stored in variables can be different types):
-
+"""
 age = 20          # integer
 pi = 3.14         # float (decimal)
 name = "Tahir"    # string (text)
 is_student = True # boolean (True/False)
 
 
-👉 Final Note: Variables make code reusable, readable, and easy to update.
+##### make more variable
 
-"""
+
+
+
+#👉 Final Note: Variables make code reusable, readable, and easy to update.
+
