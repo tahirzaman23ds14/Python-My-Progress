@@ -82,7 +82,7 @@ name = "Tahir"  # Assigning a name to the variable
 language = "javascript"  # Assigning a programming language to the variable
 print("My name is", name)
 print(name, "is learning ", language)
-print(name, "wants to become a", language  " Expert")
+print(name, "wants to become a",language + "\nExpert")
 
 
 #👉 Final Note: Variables make code reusable, readable, and easy to update.
