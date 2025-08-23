@@ -24,4 +24,4 @@
 
 ########## Python road map ######################
 
-
+#here is a simple roadmap to get started with Python:
