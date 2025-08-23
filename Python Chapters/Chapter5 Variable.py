@@ -76,9 +76,13 @@ name = "Tahir"    # string (text)
 is_student = True # boolean (True/False)
 
 
-##### make more variable
+##### make more variable practice examples
 
-
+name = "Tahir"  # Assigning a name to the variable 
+language = "javascript"  # Assigning a programming language to the variable
+print("My name is", name)
+print(name, "is learning ", language)
+print(name, "wants to become a", language  " Expert")
 
 
 #👉 Final Note: Variables make code reusable, readable, and easy to update.
