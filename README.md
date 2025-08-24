@@ -14,6 +14,6 @@
 
 This repo is not just about my personal progress — it’s designed for everyone who wants to learn, practice, and improve their Python skills. Whether you’re a beginner starting your coding journey or someone advancing toward data science, automation, or web development, you’ll find something valuable here.
 
-## 🚀 Let’s grow together in Python!
+## Let’s grow together in Python!
 
-# ✨ One step closer every day — from beginner to Python expert!
+# One step closer every day — from beginner to Python expert!
