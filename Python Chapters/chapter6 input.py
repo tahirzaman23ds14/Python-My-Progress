@@ -39,3 +39,23 @@ print("Next year your age will be", age + 1)
 
 # If you type 20, it prints:
 # Next year your age will be 21
+
+
+#######################################################################################
+""" 
+
+Summary for Beginners
+
+input() → always returns string
+
+Use int() or float() if you need numbers
+
+Put a message inside input("...") to guide the user
+
+Small Practice for You:
+
+Ask the user for their name and print a greeting.
+
+Ask for two numbers and print their sum.
+
+"""
