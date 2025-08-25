@@ -8,7 +8,7 @@ It pauses the program, waits for the user to type something, and then returns th
 """
 
 ########################################################################################
-# Basic Example
+ # Basic Example
 name = input("Enter your name: ")
 print("Hello,", name)
 
