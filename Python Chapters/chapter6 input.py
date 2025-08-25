@@ -72,11 +72,8 @@ Ask for two numbers and print their sum.
 input()
 """ 
 What happens?
-
 The program waits for you to type something.
-
 After you press Enter, Python stores it — but you didn’t tell Python what to do with it.
-
 That’s why it looks like “nothing happened.”
 """
 #  Case 2: Storing the input in a variable
@@ -84,28 +81,25 @@ name = input()
 
 """ 
 Program still waits for you to type something.
-
 After Enter, it saves what you typed in the variable name.
-
 But still, nothing shows — because you didn’t tell Python to print it.
-
 """
 # Case 3: Showing (printing) the input
 
 name = input("Enter your name: ")
 print("You typed:", name)
-👉 Now it will:
-
+# Now it will:
+""" 
 Show a message asking for your name.
-
 Wait for you to type and press Enter.
-
 Print what you typed. ✅
+"""
 
-🔑 Main Rule:
+#🔑 Main Rule:
+""" 
 input() takes input
 
 print() shows output
 
 If you only write input() → program takes input but you see nothing, because no output is printed.
-
+"""
