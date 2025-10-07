@@ -28,3 +28,29 @@ Answer """
 celsius = int(input("Enter Celsuis Temperature to conver into "))
 Fahrenheit = (celsius * 9/5 )+32
 print(Fahrenheit)
+
+"""
+Question:4
+Take product name (string), quantity (int), and price per unit (float). Print total cost.
+Answer """
+Product=str(input("Enter Product Name :"))
+Productprice =float(input("Enter Product Price:"))
+quantity=int(input("Enter quantity"))
+print("Product")
+print("Quantity of Product:",quantity )
+Total = Productprice * quantity
+print("Total ammount is :", Total )
+
+
+# try yourself
+"""
+Question 5
+Take your name as input and print a personalized greeting.
+Question 6
+Take your current age and show your age after 10 years.
+Question 7
+Take three float numbers and print their average.
+Question 8
+Take total seconds as input and convert them to minutes and seconds
+
+"""
